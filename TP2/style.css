@@ -1,0 +1,13 @@
+.form {
+   border: 1px solid pink;
+   background-color: lightgrey;
+}
+
+.form-control {
+    margin-bottom: 2em;
+}
+
+.regex {
+    color: red;
+    font-style: italic;
+}

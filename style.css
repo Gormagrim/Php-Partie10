@@ -1,0 +1,57 @@
+.form {
+   border: 1px solid pink;
+   background-color: lightgrey;
+}
+
+.form-control {
+    margin-bottom: 2em;
+}
+
+.regex {
+    color: red;
+    font-style: italic;
+}
+
+.navbar {
+    background-color: #2f4f4f;
+    width: 100%;
+}
+
+.navbar-light .navbar-left {
+    font-size: 1.8em;
+    font-weight: bold;
+    outline: 0;
+    color: #fff;
+}
+
+.navbar-light .navbar-brand {
+    color: #fff;
+}
+
+.navbar-light .navbar-brand:hover {
+    color: #ffa000;
+}
+
+.btn-outline-warning {
+    color: #fff;
+    border-color: #fff;
+    margin-right: 2em;
+    outline: 0;
+}
+
+.btn-outline-warning:hover {
+    background-color: #ffa000;
+    border-color: #fff;
+    color: #fff;
+}
+
+.orange {
+    color: #ffa000;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    margin-right: 1em;
+}

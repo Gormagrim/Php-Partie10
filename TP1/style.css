@@ -1,0 +1,17 @@
+.form {
+   border: 1px solid pink;
+   background-color: lightgrey;
+}
+
+.form-control {
+    margin-bottom: 2em;
+}
+
+.form-control.is-invalid {
+   background-image: url(pasok2.png);
+}
+
+.regex {
+    color: red;
+    font-style: italic;
+}
